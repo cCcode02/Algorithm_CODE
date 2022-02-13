@@ -9,5 +9,5 @@ _[설명 참조] : https://blog.naver.com/boil_jeong20719/222629381887_
 _[설명참조] : https://blog.naver.com/boil_jeong20719/222638723023_
 
 ***
-### 2) Code up 3022 큰 수 뺄셈
+### 3) Code up 2010 루트 문제(?)
 _[설명참조] : https://blog.naver.com/boil_jeong20719/222646509544_
