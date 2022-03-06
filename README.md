@@ -17,5 +17,5 @@ _[설명참조] : https://blog.naver.com/boil_jeong20719/222646509544_
 _[설명 참조] : https://blog.naver.com/boil_jeong20719/222657633921_
 
 ***
-### 4) Code up 4036 합과 차 - (Sum_and_Difference.c)
+### 5) Code up 4036 합과 차 - (Sum_and_Difference.c)
 _[설명 참조] : https://blog.naver.com/boil_jeong20719/222657651347_
