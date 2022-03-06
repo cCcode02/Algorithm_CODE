@@ -11,3 +11,11 @@ _[설명참조] : https://blog.naver.com/boil_jeong20719/222638723023_
 ***
 ### 3) Code up 2010 루트 문제(?) - (The_Closest_Num.c)
 _[설명참조] : https://blog.naver.com/boil_jeong20719/222646509544_
+
+***
+### 4) Code up 4037 소인수분해 - (Seek_Small_num.c)
+_[설명 참조] : https://blog.naver.com/boil_jeong20719/222657633921_
+
+***
+### 4) Code up 4036 합과 차 - (Sum_and_Difference.c)
+_[설명 참조] : https://blog.naver.com/boil_jeong20719/222657651347_
